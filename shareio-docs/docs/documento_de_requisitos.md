@@ -56,7 +56,7 @@ O projeto **share.io** tem como objetivo oferecer um **chatbot desktop minimalis
 #### Compatibilidade
 | ID   | Descrição |
 |------|-----------|
-| RNF06 | O sistema deve ser compatível com **Windows, Linux e macOS**. |
+| RNF06 | O sistema deve ser compatível com **Linux**. |
 | RNF07 | O sistema deve ser desenvolvido em **Flutter (frontend)** e **Node.js/TypeScript (backend)**. |
 
 ---
